@@ -6,7 +6,7 @@ Homebrew tap for [Cortex](https://github.com/autumngarage/cortex) — the reflec
 
 ```bash
 brew tap autumngarage/cortex
-brew install cortex
+brew install autumngarage/cortex/cortex    # fully-qualified: homebrew-core also has a `cortex` (Prometheus long-term storage)
 ```
 
 Then in any project:
