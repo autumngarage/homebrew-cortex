@@ -1,8 +1,8 @@
 class Cortex < Formula
   desc "Project memory — doctrine, map, plans, journal. Reflective layer of the autumngarage composition."
   homepage "https://github.com/autumngarage/cortex"
-  url "https://github.com/autumngarage/cortex/archive/refs/tags/v0.2.5.tar.gz"
-  sha256 "ec426ba25083b97093a1045196f189ba453582b468484ffaacecf18ba4a4a708"
+  url "https://github.com/autumngarage/cortex/archive/refs/tags/v0.2.6.tar.gz"
+  sha256 "df86c34b6af9dc6482ac7a3e1f6cfc2c4a0434b4850039c073a8d2aa3a1f635e"
   license "MIT"
 
   depends_on "python@3.11"
