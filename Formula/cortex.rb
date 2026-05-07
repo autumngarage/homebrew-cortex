@@ -43,7 +43,7 @@ class Cortex < Formula
       Cortex reads .sentinel/runs/ and respects .touchstone-config when present.
       Neither is required — Cortex degrades gracefully if either is missing.
 
-      Ships targeting SPEC v0.3.1-dev and Protocol v0.2.0. See:
+      For the spec and protocol versions this release ships against, see:
         https://github.com/autumngarage/cortex#readme
     EOS
   end
